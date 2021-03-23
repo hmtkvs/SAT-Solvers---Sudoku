@@ -5,7 +5,11 @@ Sudoku is a famous puzzle1 where the objective is to to fill a `9x9` grid with i
 - Each digit in N appears exactly once in every row and column of the grid.
 - Each digit in N
 <p align="left">
-<img src="https://media2.giphy.com/media/l41Yy6jvn3BXYDRu0/giphy.gif", alt="Databay sudoku" title="Databay sudoku" width="350"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Sudoku_17d_animation.gif", alt="Databay sudoku" title="Databay sudoku" width="350"/>
 </p>
 
 ### Instructions
+https://github.com/hmtkvs/SAT-Solvers---Sudoku/blob/main/Instructions.pdf
+
+### Solutions
+https://github.com/hmtkvs/SAT-Solvers---Sudoku/blob/main/Project_Report.pdf
